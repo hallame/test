@@ -1,0 +1,8 @@
+[submodule "hallame.github.io"]
+	path = hallame.github.io
+	url = git@github.com:hallame/hallame.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = git@github.com:hallame/hallame.github.io.git
+	branch = main

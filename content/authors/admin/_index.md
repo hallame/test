@@ -14,7 +14,7 @@ organizations:
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Already having a foundation in web development, my interests are more about game programming and AI.
+bio: My interests are more about game programming and AI.
 
 # Interests to show in About widget
 interests:
@@ -29,9 +29,6 @@ education:
       institution: People' Friendship University of Russia (RUDN University)
       year: 2025
    
-    - course: General Secondary Education
-      institution: CEG2 Bohicon
-      year: 2012-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

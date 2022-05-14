@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle:
+subtitle: My Experience
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -22,28 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
+  - title: Student
+    company: RUDN University
+    company_url: 
+    company_logo: 
+    location: Moscow
     date_start: '2021-01-01'
-    date_end: ''
+    date_end: '2025-01-01'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+ 
+       
+        *learning
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'

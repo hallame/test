@@ -11,11 +11,11 @@ weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish&shy;ments'
-subtitle:
+subtitle: My accomplishments
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: Jan 2022
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -24,28 +24,28 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
+    date_end: '2021-11-10'
+    date_start: '2020-01-25'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: IT
     url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+  - certificate_url: 
+    date_end: '2022-04-22'
+    date_start: '2022-01-01'
+    description: Training
+    organization: Udemy
+    organization_url: https://www.udemy.com/fr/
+    title: C++ Programming
+    url:
+  - certificate_url: 
+    date_end: '2022-02-28'
+    date_start: '2022-01-25'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: W3 School
+    organization_url: https://www.w3schools.com/
+    title: Programming
     url: ''
 
 design:

@@ -1,12 +1,12 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Hugo site creating
+summary: Personal Project.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Hugo site creating in personal project
+date: '2022-05-28T12:23:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://youtube.com/playlist?list=PLJlca73wWfvPKDSsmI6qqJ9wd5bZsw-3N'
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -16,7 +16,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: hallame.github.io
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -30,12 +30,67 @@ url_video: ''
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+## Этапы реализации проекта
+### Этапы реализации проекта
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+    1. Размещение на Github pages заготовки для персонального сайта.
+        Установить необходимое программное обеспечение.
+        Скачать шаблон темы сайта.
+        Разместить его на хостинге git.
+        Установить параметр для URLs сайта.
+        Разместить заготовку сайта на Github pages.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+    2. Добавить к сайту данные о себе.
+        Список добавляемых данных.
+            Разместить фотографию владельца сайта.
+            Разместить краткое описание владельца сайта (Biography).
+            Добавить информацию об интересах (Interests).
+            Добавить информацию от образовании (Education).
+        Сделать пост по прошедшей неделе.
+        Добавить пост на тему по выбору:
+            Управление версиями. Git.
+            Непрерывная интеграция и непрерывное развертывание (CI/CD).
+
+    3. Добавить к сайту достижения.
+        Список достижений.
+            Добавить информацию о навыках (Skills).
+            Добавить информацию об опыте (Experience).
+            Добавить информацию о достижениях (Accomplishments).
+        Сделать пост по прошедшей неделе.
+        Добавить пост на тему по выбору:
+            Легковесные языки разметки.
+            Языки разметки. LaTeX.
+            Язык разметки Markdown.
+
+    4. Добавить к сайту ссылки на научные и библиометрические ресурсы.
+        Зарегистрироваться на соответствующих ресурсах и разместить на них ссылки на сайте:
+            eLibrary : https://elibrary.ru/;
+            Google Scholar : https://scholar.google.com/;
+            ORCID : https://orcid.org/;
+            Mendeley : https://www.mendeley.com/;
+            ResearchGate : https://www.researchgate.net/;
+            Academia.edu : https://www.academia.edu/;
+            arXiv : https://arxiv.org/;
+            github : https://github.com/.
+        Сделать пост по прошедшей неделе.
+        Добавить пост на тему по выбору:
+            Оформление отчёта.
+            Создание презентаций.
+            Работа с библиографией.
+
+    5. Добавить с сайту все остальные элементы.
+        Сделать записи для персональных проектов.
+        Сделать пост по прошедшей неделе.
+        Добавить пост на тему по выбору.
+            Языки научного программирования.
+
+    6. Размещение двуязычного сайта на Github.
+        Сделать поддержку английского и русского языков.
+        Разместить элементы сайта на обоих языках.
+        Разместить контент на обоих языках.
+        Сделать пост по прошедшей неделе.
+        Добавить пост на тему по выбору (на двух языках).
+
+

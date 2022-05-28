@@ -38,8 +38,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: eLibrary
-    icon_pack: fab
+  - icon: book
+    icon_pack: fas
     link: https://elibrary.ru/
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
@@ -47,19 +47,21 @@ social:
   - icon: Google Scholar
     icon_pack: fab
     link: https://scholar.google.com/
-  - icon: ORCID
-    icon_pack: fas
+  - icon: orcid
+    icon_pack: ai
     link: https://orcid.org/my-orcid?orcid=0000-0002-7568-2187
-  - icon: Mendeley
-    icon_pack: fas
+  - icon: mendeley
+    icon_pack: ai
     link: https://www.mendeley.com/search/
   - icon: ResearchGate
     icon_pack: fas
     link: https://www.researchgate.net/
-  - icon: Academia.edu
-    icon_pack: fab
+  - icon: academia
+    icon_pack: ai
     link: https://www.academia.edu/
-  - link: https://arxiv.org/
+  - icon: arxiv
+    icon_pack: ai
+    link: https://arxiv.org/
   - icon: github
     icon_pack: fab
     link: https://github.com/hallame
